@@ -1,0 +1,16 @@
+bin\Debug\AsyncDialog.exe
+bin\Debug\AsyncDialog.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\AsyncDialog.Form1.resources
+obj\Debug\AsyncDialog.Properties.Resources.resources
+obj\Debug\AsyncDialog.csproj.GenerateResource.Cache
+obj\Debug\AsyncDialog.exe
+obj\Debug\AsyncDialog.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\AsyncDialog.Form1.resources
+obj\Release\AsyncDialog.Properties.Resources.resources
+obj\Release\AsyncDialog.csproj.GenerateResource.Cache
+bin\Release\AsyncDialog.exe
+bin\Release\AsyncDialog.pdb
+obj\Release\AsyncDialog.exe
+obj\Release\AsyncDialog.pdb

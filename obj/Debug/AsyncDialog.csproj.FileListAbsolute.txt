@@ -1,0 +1,11 @@
+C:\Users\kashi\Desktop\Icons\AsyncDialog\bin\Debug\AsyncDialog.exe
+C:\Users\kashi\Desktop\Icons\AsyncDialog\bin\Debug\AsyncDialog.pdb
+C:\Users\kashi\Desktop\Icons\AsyncDialog\obj\Debug\AsyncDialog.csproj.AssemblyReference.cache
+C:\Users\kashi\Desktop\Icons\AsyncDialog\obj\Debug\AsyncDialog.MdiChildDlg.resources
+C:\Users\kashi\Desktop\Icons\AsyncDialog\obj\Debug\AsyncDialog.MdiParentDlg.resources
+C:\Users\kashi\Desktop\Icons\AsyncDialog\obj\Debug\AsyncDialog.ModalDlg.resources
+C:\Users\kashi\Desktop\Icons\AsyncDialog\obj\Debug\AsyncDialog.csproj.GenerateResource.cache
+C:\Users\kashi\Desktop\Icons\AsyncDialog\obj\Debug\AsyncDialog.csproj.CoreCompileInputs.cache
+C:\Users\kashi\Desktop\Icons\AsyncDialog\obj\Debug\AsyncDialog.exe
+C:\Users\kashi\Desktop\Icons\AsyncDialog\obj\Debug\AsyncDialog.pdb
+C:\Users\kashi\Desktop\Icons\AsyncDialog\obj\Debug\AsyncDialog.Form1.resources
